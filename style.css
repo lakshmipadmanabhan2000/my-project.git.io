@@ -1,0 +1,434 @@
+body{
+	max-width: 100%;
+	overflow-x: hidden;
+	background: #f3f4f4;
+	}
+.heading{
+	color: red;
+	font-size: 25px;
+	padding:10px;
+}
+.heading span{
+	color: white;
+}
+.section-1{
+	font-size: 20px;
+}
+.section-3{
+	background-color: #f3f4f4;
+	padding: 30px;
+}
+.section-3 .header h1{
+	color: red;
+	font-weight: 600;
+}
+.section-3 .header span{
+	color: green;
+}
+.nav-link:hover{
+	color: white;
+	background-color: grey;
+}
+.moveright{
+	margin-left: 795px;
+}
+.header{
+	text-align: center;
+	font-style: italic;
+	font-family: serif;
+	margin:50px;
+}
+.image{
+	margin: 20px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	text-align: right;
+}
+.title{
+	font-size: 20px;
+	text-align: center;
+	margin-top: 0px;
+	color: grey;
+}
+.slide-1{
+	margin: 25px;
+}
+.name{
+	width: 200px;
+	margin:5px;
+}
+.box{
+	width: 200px;
+	margin:5px;
+	border-radius: 10px;
+}
+.form-control{
+	border-radius: 10px;
+}
+.rightsidedeco{
+	background-color: #ffb878;
+	padding: 20px;
+	padding-left: 30px;
+	color:#d72845;
+	width:600px;
+	height: 400px;
+	border-radius: 10px;
+	margin-top: 60px;
+}
+.fa-cutlery{
+	color: white;
+}
+.contactinfo{
+	padding-bottom: 35px;
+}
+.contactform{
+	padding: 15px;
+	margin-top: 25px;
+}
+.myform{
+	box-sizing: border-box;
+	border:3.5px solid black;
+	padding: 10px;
+	border-radius: 10px;
+	margin:auto;
+	width:500px;
+	margin-top: 70px;
+	background: white;
+}
+.csform{
+	margin: 20px;
+	margin-left: 450px;
+}
+.myinput{
+	width: 200px;
+	margin-left: 0px;
+	border-radius: 10px;
+}
+.myform input{
+	border-radius: 10px;
+	width: 200px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+.box select{
+	border-radius:10px;
+	padding: 0;
+}
+.myform button{
+	border-radius: 5px;
+	display: block;
+	margin: auto;
+}
+.myform textarea{
+	border-radius: 15px;
+	width: 450px;
+	margin-top: 0px; 
+	margin-left: 5px;
+}
+.myform p{
+	font-size: 30px;
+	font-style: italic;
+	font-weight: 500;
+	color: #0275d8;
+	text-align: center;
+}
+.navbar-collapse .collapse .show li a{
+		color: white;
+	}
+.mydetails{
+	display: flex;
+	margin: 2rem;
+}
+.facebook a , .instagram a , .linkedin a{
+	color: black;
+}
+.details{
+	padding: 20px;
+}
+.foot{
+	background-color: #a9aa94
+	font-size: 20px;
+	color: white;
+	height: 400px;
+}
+.footer{
+	background-color: #a9aa94;
+	font-size: 25px;
+	color: white;
+	font-style: italic;
+	font-family: sans-serif;
+}
+.close {
+	opacity: 0.5;
+}
+.close span{
+	float: right;
+	padding-left: 200px;
+}
+.facebook,.linkedin,.instagram{
+	margin:20px;
+}
+.carousel-inner{
+	width:400px;
+}
+.carousel-inner h5{
+	font-size: 30px;
+	font-style: italic;
+}
+.itemcontent{
+	font-family: serif;
+	font-size: 30px;
+	padding: 100px;
+	height: 460px;
+	font-style: italic;
+}
+.title{
+	font-family: serif;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 800;
+}
+.checkbox{
+	padding-top: 6px;
+	font-size: 18px;
+}
+.checkbox input{
+	margin: 7px;
+	width: 10px;
+}
+.aboutimage{
+	margin: 30px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+.para{
+	font-style: italic;
+}
+.para p{
+	margin-top: 60px;
+	font-family: serif;
+	font-size: 25px;
+}
+.aboutus {
+	margin-left:40px;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 300;
+	padding-bottom: 20px;
+	color: #ff7500;
+}
+.aboutus h3{
+	font-size: 40px;
+	color: #c01f20;
+}
+.listitems{
+	margin: 35px;
+	font-size: 25px;
+}
+.aboutus p{
+	margin-left: 55px;
+	font-size: 23px;
+}
+.points{
+	margin-top: 25px;
+}
+.footimage{
+	margin-top:20px;
+}
+.head{
+	font-style: italic;
+	font-size: 45px;
+	color:#914723;
+}
+.head span{
+	font-size: 65px;
+	color:red;
+}
+.foot{
+	color:#6e03fc;
+	padding-bottom: 0px;
+	height: 250px;
+}
+.notes{
+	margin-top: 50px;
+	font-family: Georgia,Times,Times New Roman,serif; 
+	font-style: italic;
+}
+.notes h5{
+	font-size: 25px;
+	padding: 10px;
+	font-weight: 600;
+}
+.section-2, .jumbotron-fluid{
+	background-color:#f4fab5;
+}
+.jumbotron-fluid{
+	padding-bottom: 10px;
+}
+.jumbotron-fluid p{
+	color:#ff7500;
+}
+.content{
+	padding: 50px;
+	padding-top:25px; 
+	background-color:#f3f4f4;
+}
+.content h1{
+	text-align: center;
+	font-style: italic;
+	font-family:Times,Times New Roman,serif; 
+	font-size:50px;
+	color: red;
+	font-weight: 600;
+}
+.content h1 span{
+	color: black;
+}
+.properties{
+	margin-top:70px;
+}
+.write{
+	margin-top: 140px;
+}
+.write h3{
+	font-size: 40px;
+}
+.write p{
+	font-size: 20px;
+}
+.cs-section{
+	padding: 30px;
+	text-align: center;
+}
+.background{
+	background-color: #a9aa94;
+}
+.cs-section h3{
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+	color: #F012BE;
+	margin-bottom: 0px;
+	letter-spacing: 1.5px;
+}
+@media(max-width: 976px){
+	html,body{
+		max-width: 100%;
+		overflow-x: hidden;
+	}
+	.header h1{
+		font-size: 25px;
+		letter-spacing: 1.5px;
+		margin-bottom: 0px;
+		padding: 0;
+	}
+	.carousel-inner{
+		padding: 0px;
+	}
+	.navbar{
+		padding: 25px;
+	}
+	.section-3{
+		padding: 10px;
+	}
+	.moveright{
+	margin-left: 0px;
+	}
+	.contactform,.cs-section{
+		margin:0;
+		padding: 0px;
+		padding: 3px 1px;
+	}
+	.myform{
+		margin:2px;
+		max-width:100%;
+	}
+	.csform{
+		margin:2px;
+		max-width: 100%;
+	}
+	.rightsidedeco{
+		margin:2px;
+		max-width: 100%;
+	}
+	.fa-cutlery{
+		line-height: 0.5;
+		width: 100px;
+	}
+	.rightside{
+		max-width:100%;
+	}
+	.image{
+		text-align: center;
+	}
+	.nav-item{
+	margin-top:10px;
+	}
+	.myform input{
+		width: 300px;
+		max-width: 100%;
+	}
+	.name{
+		max-width: 100%;
+	}
+	.box{
+		max-width: 100%;
+	}
+	.checkbox{
+		padding-top: 0;
+		padding-bottom: 10px;
+	}
+	.myform textarea{
+		max-width: 100%;
+	}
+	.checkbox input{
+		max-width: 100%;
+	}
+	.cs-section h3{
+		margin: 20px;
+	}
+	.box{
+		width:300px;
+		max-width: 100%;
+	}
+	.checkbox input{
+		max-width: 10px;
+		width: 100%;
+	}
+	.aboutus{
+		margin-left: 0;
+		max-width: 100%;
+	}
+	.para ,.aboutus h3{
+		text-align: center;
+		margin-left: 0px;
+		max-width: 100%;
+	}
+	.points p{
+		font-size: 20px;
+		margin-left: 10px;
+	}
+	.listitems{
+		max-width: 100%; 
+	}
+	.footimage{
+		text-align: center;
+	}
+	.notes h5{
+		font-size: 18px;
+	}
+	.content{
+		padding: 20px 0;
+	}
+	.properties{
+		text-align: center;
+		margin-top: 15px;
+	}
+	.write{
+		max-width: 100%;
+		margin: 10px 2px;
+		padding:10px;
+		padding-left: 15px;
+	}
+	.itemcontent{
+		padding: 20px;
+	}
+}
